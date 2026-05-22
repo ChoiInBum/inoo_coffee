@@ -24,7 +24,7 @@ searchInputEl.addEventListener("blur", function () {
  */
 // 페이지 스크롤에 영향을 받는 요소들을 검색!
 const badgeEl = document.querySelector("header .badges");
-const toTopEl = document.querySelector("#to-top");
+
 // 페이지에 스크롤 이벤트를 추가!
 // 스크롤이 지나치게 자주 발생하는 것을 조절(throttle, 일부러 부하를 줌)
 window.addEventListener("scroll", function () {
@@ -54,11 +54,6 @@ window.addEventListener("scroll", function () {
       x: 100,
     });
   }
-});
-toTopEl.addEventListener("click", function () {
-  gsap.to(window, 0.6, {
-    scrollTo: 0,
-  });
 });
 
 /**

@@ -1,8 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1cbd6948-19c3-4cdf-b785-aa71d080b2c9/deploy-status)](https://app.netlify.com/sites/epic-darwin-271c77/deploys)
 
-# ☕ HEROPY COFFEE
+# ☕ INOO COFFEE
 
-헤로피커피 랜딩 페이지(홈페이지)를 만드는 예제입니다.<br>
+이누커피 랜딩 페이지(홈페이지)를 만드는 예제입니다.<br>
 꼭 ⬇ 아래 내용 모두 읽어보시고, ⬆ 완성된 코드도 확인해 보세요!
 
 [DEMO](https://epic-darwin-271c77.netlify.app/)  
@@ -87,7 +87,7 @@ KakaoTalk -
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Heropy Coffee" />
 <meta property="og:title" content="Heropy Coffee Landing" />
-<meta property="og:description" content="헤로피커피는 세계에서 가장 큰 다국적 커피 전문점으로, 64개국에서 총 23,187개의 매점을 운영하고 있습니다." />
+<meta property="og:description" content="이누커피는 세계에서 가장 큰 다국적 커피 전문점으로, 64개국에서 총 23,187개의 매점을 운영하고 있습니다." />
 <meta property="og:image" content="./images/for_seo.jpg" />
 <meta property="og:url" content="https://epic-darwin-271c77.netlify.app" />
 ```
@@ -109,7 +109,7 @@ KakaoTalk -
 <meta property="twitter:card" content="summary" />
 <meta property="twitter:site" content="Heropy Coffeee" />
 <meta property="twitter:title" content="Heropy Coffee Landing" />
-<meta property="twitter:description" content="헤로피커피는 세계에서 가장 큰 커피 전문점으로, 64개국에서 총 23,187개의 매점을 운영하고 있습니다." />
+<meta property="twitter:description" content="이누커피는 세계에서 가장 큰 커피 전문점으로, 64개국에서 총 23,187개의 매점을 운영하고 있습니다." />
 <meta property="twitter:image" content="./images/for_seo.jpg" />
 <meta property="twitter:url" content="https://epic-darwin-271c77.netlify.app" />
 ```
@@ -298,9 +298,9 @@ new ScrollMagic
           <li>
             <h4>커피</h4>
             <ul>
-              <li>헤로피커피 원두</li>
-              <li>헤로피커피 비아</li>
-              <li>헤로피커피 오리가미</li>
+              <li>이누커피 원두</li>
+              <li>이누커피 비아</li>
+              <li>이누커피 오리가미</li>
             </ul>
           </li>
           <li>
@@ -360,7 +360,7 @@ new ScrollMagic
               <li>에스프레소</li>
               <li>프라푸치노</li>
               <li>블렌디드 음료</li>
-              <li>헤로피커피 피지오</li>
+              <li>이누커피 피지오</li>
               <li>티(티바나)</li>
               <li>기타 제조 음료</li>
               <li>주스(병음료)</li>
@@ -443,7 +443,7 @@ new ScrollMagic
           <h4>매장 찾기</h4>
           <p>보다 빠르게 매장을 찾아보세요.</p>
           <h4>청담스타</h4>
-          <p>헤로피커피 1,000호점인 청담스타점을 만나보세요.</p>
+          <p>이누커피 1,000호점인 청담스타점을 만나보세요.</p>
         </div>
       </div>
     </div>
@@ -484,7 +484,7 @@ new ScrollMagic
             <h4>글로벌 사회 공헌</h4>
             <ul>
               <li>윤리경영 보고서</li>
-              <li>헤로피커피 재단</li>
+              <li>이누커피 재단</li>
               <li>지구촌 봉사의 달</li>
             </ul>
           </li>
@@ -493,7 +493,7 @@ new ScrollMagic
       <div class="contents__texture">
         <div class="inner">
           <h4>커피원두 재활용</h4>
-          <p>헤로피커피 커피 원두를 재활용 해보세요.</p>
+          <p>이누커피 커피 원두를 재활용 해보세요.</p>
         </div>
       </div>
     </div>
@@ -504,16 +504,16 @@ new ScrollMagic
       <div class="contents__menu">
         <ul class="inner">
           <li>
-            <h4>마이 헤로피커피 리워즈</h4>
+            <h4>마이 이누커피 리워즈</h4>
             <ul>
               <li>마이 리워즈 소개</li>
               <li>등급 및 혜택</li>
-              <li>헤로피커피 별</li>
+              <li>이누커피 별</li>
               <li>자주하는 질문</li>
             </ul>
           </li>
           <li>
-            <h4>헤로피커피 카드</h4>
+            <h4>이누커피 카드</h4>
             <ul>
               <li>카드 소개</li>
               <li>카드 갤러리</li>
